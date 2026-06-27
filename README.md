@@ -32,7 +32,7 @@ El programa funciona de la siguiente manera:
 
 ---
 
-## 🧾 Ejemplo de uso
+## Ejemplo de uso
 
 ### Entrada del usuario:
 ```text id="q2l8sx"
@@ -52,15 +52,15 @@ Colombia
 
 ---
 
-## 🧩 Lógica del programa
+## Lógica del programa
 
 Puedes ver la explicación completa en:
 
-📁 `docs/logica.md`
+ `docs/logica.md`
 
 ---
 
-## 🗂️ Estructura del proyecto
+##  Estructura del proyecto
 
 ```text id="x9k2qp"
 Travel_AI/
@@ -84,11 +84,6 @@ Travel_AI/
 ---
 
 ## Capturas del proyecto
-
-### Pantalla principal
-```markdown id="p1k8sd"
-![Pantalla principal](img/portada.png)
-```
 
 ### Funcionamiento
 ```markdown id="f8k3lm"

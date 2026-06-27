@@ -49,7 +49,7 @@ Este bloque inicia la ejecución del programa cuando el usuario presiona la band
 ### Evidencia
 
 ```md
-![Bloque Inicio](../img/bloque_inicio.png)
+![Bloque Inicio](../public/Sin%20título.jpg)
 ```
 
 ---
